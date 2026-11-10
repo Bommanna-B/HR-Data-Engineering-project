@@ -1,0 +1,16 @@
+attendance_id,employee_id,attendance_date,status,employee_name,department_id,job_title,joining_date,department_name,location
+1,1001,2026-10-01,Present,ananya rao,10,Data Analyst,2023-04-10,technology,Bengaluru
+2,1001,2026-10-02,Present,ananya rao,10,Data Analyst,2023-04-10,technology,Bengaluru
+3,1001,2026-10-03,Leave,ananya rao,10,Data Analyst,2023-04-10,technology,Bengaluru
+4,1002,2026-10-01,Present,rahul shetty,20,HR Executive,2022-08-15,human resources,Mysuru
+5,1002,2026-10-02,Absent,rahul shetty,20,HR Executive,2022-08-15,human resources,Mysuru
+6,1002,2026-10-03,Present,rahul shetty,20,HR Executive,2022-08-15,human resources,Mysuru
+7,1003,2026-10-01,Present,meera nair,10,Data Engineer,2024-01-08,technology,Bengaluru
+8,1003,2026-10-02,Present,meera nair,10,Data Engineer,2024-01-08,technology,Bengaluru
+9,1003,2026-10-03,Present,meera nair,10,Data Engineer,2024-01-08,technology,Bengaluru
+10,1004,2026-10-01,Absent,arjun patil,30,Finance Associate,2021-11-22,finance,Hubballi
+11,1004,2026-10-02,Present,arjun patil,30,Finance Associate,2021-11-22,finance,Hubballi
+12,1004,2026-10-03,Leave,arjun patil,30,Finance Associate,2021-11-22,finance,Hubballi
+13,1005,2026-10-01,Present,kavya reddy,20,Recruiter,2023-06-05,human resources,Mysuru
+14,1005,2026-10-02,Present,kavya reddy,20,Recruiter,2023-06-05,human resources,Mysuru
+15,1005,2026-10-03,Absent,kavya reddy,20,Recruiter,2023-06-05,human resources,Mysuru
